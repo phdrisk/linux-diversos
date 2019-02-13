@@ -4,4 +4,5 @@
 - [sudo]  /usr/local/bin/noip2
 
 # link simbolico (alias)
--ln -s /var/log/boot.log /home/usuario/novoarquivo -> cria um referencia dentro /home/usuario/novarquivo apontando para o boot.log
+- ln -s /var/log/boot.log /home/usuario/novoarquivo -> cria um referencia dentro /home/usuario/novarquivo apontando para o boot.log
+- ls -lah (mostra o link)
