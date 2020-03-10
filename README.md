@@ -11,3 +11,7 @@
 - install ufw
 - ufw disable / enable
 - ufw allow 3389/tcp
+
+# instalar version (R)
+- library(devtools)
+- install_version(package, version=)
