@@ -19,4 +19,5 @@
 # PROCURAR PALAVAR EM ARQUIVO
 ```
 sudo grep -Ril "texto" /
+ack "texto" (apt intall ack-grep)
 ```
