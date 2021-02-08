@@ -15,3 +15,8 @@
 # instalar version (R)
 - library(devtools)
 - install_version(package, version=)
+
+# PROCURAR PALAVAR EM ARQUIVO
+```
+sudo grep -Ril "texto" /
+```
