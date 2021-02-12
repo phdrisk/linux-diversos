@@ -1,5 +1,10 @@
 # linux-diversos
 
+# UPGRADE
+```
+/ETC/APT/SOURCES.LIST
+```
+
 # iniciar noip
 - [sudo]  /usr/local/bin/noip2
 
