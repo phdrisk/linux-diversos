@@ -25,4 +25,7 @@
 ```
 sudo grep -Ril "texto" /
 ack "texto" (apt intall ack-grep)
+ou 
+
+find / -type f -exec grep -H 'text-to-find-here' {} \;
 ```
