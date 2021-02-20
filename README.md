@@ -21,7 +21,7 @@
 - library(devtools)
 - install_version(package, version=)
 
-# PROCURAR PALAVAR EM ARQUIVO
+# PROCURAR PALAVRA EM ARQUIVO
 ```
 sudo grep -Ril "texto" /
 ack "texto" (apt intall ack-grep)
